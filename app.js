@@ -1,2 +1,2 @@
 alert('Boas vindas ao jogo do número secreto');
-let numeroSecreto
+let numeroSecreto = 29;
