@@ -19,6 +19,8 @@ body::before {
     background-repeat: no-repeat;
     background-position: right;
     content: "";
+    display: block;
+    position: absolute;
 }
 
 .container {
