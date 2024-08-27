@@ -41,6 +41,8 @@ body::before {
 }
 
 .container__conteudo {
+    display: flex;
+    align-items: center;
 }
 
 .container__informacoes {
