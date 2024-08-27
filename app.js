@@ -8,3 +8,4 @@
 
 alert('Boas vindas ao nosso site!');
 let nome = Lua;
+let idade = 25;
