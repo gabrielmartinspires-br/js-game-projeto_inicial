@@ -13,3 +13,5 @@ let numeoDeVenda = 50;
 let saldoDisponivel = 1000;
 let mensagemDeErro = 'Erro! Preencha todos os campos';
 alert(mensagemDeErro);
+let nome = prompt('Digite o seu nome');
+let idade = prompt('Digite a sua idade');
