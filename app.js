@@ -11,4 +11,5 @@ let nome = Lua;
 let idade = 25;
 let numeoDeVenda = 50;
 let saldoDisponivel = 1000;
+let mensagemDeErro = 'Erro! Preencha todos os campos';
 }
