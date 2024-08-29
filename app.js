@@ -16,4 +16,5 @@ alert(mensagemDeErro);
 let nome = prompt('Digite o seu nome');
 let idade = prompt('Digite a sua idade');
 let idade = prompt('Digite a sua idade');
+if (idade >= 18) {
 }
