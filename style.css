@@ -41,10 +41,6 @@ body::before {
 }
 
 .container__conteudo {
-    display: flex;
-    align-items: center;
-    position: absolute;
-    bottom: 0;
 }
 
 .container__informacoes {
