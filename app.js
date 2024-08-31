@@ -6,5 +6,5 @@
 //     console.log('Isso aí! Você descobriu o número secreto (5)');
 // }
 
-
+alert('Boas vindas ao nosso site!');
 }
