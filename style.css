@@ -47,7 +47,14 @@ body::before {
     bottom: 0;
 }
 
+.container__informacoes {
+    flex: 1;
+    padding: 20px;
+}
 
+.container__botao {
+    border-radius: 16px;
+}
 
 .container__texto {
     margin: 16px 0 16px 0;
