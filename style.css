@@ -57,6 +57,10 @@ body::before {
     background: #1875E8;
     padding: 16px 24px;
     width: 100%;
+    font-size: 24px;
+    font-weight: 700;
+    border: none;
+    margin-top: 16px;
 }
 
 .container__texto {
