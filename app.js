@@ -1,4 +1,5 @@
 alert('Boas vindas ao jogo do número secreto');
+let numeroSecreto = 5;
 }
 
 // alert('Boas vindas ao nosso site!');
