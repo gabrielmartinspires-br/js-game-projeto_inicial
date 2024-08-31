@@ -54,6 +54,9 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
+    background: #1875E8;
+    padding: 16px 24px;
+    width: 100%;
 }
 
 .container__texto {
