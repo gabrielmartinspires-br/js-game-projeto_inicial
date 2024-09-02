@@ -47,4 +47,8 @@ while (chute != numeroSecreto) {
   }
 }
 
-alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
+if (tentativas > 1) {
+    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativas.`);
+} else {
+    alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa.`);
+}
