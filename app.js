@@ -4,10 +4,8 @@ console.log(numeroSecreto)
 let chute
 
 // Enquanto o chute não for igual ao número secreto...
-while () {
-
-}
-
+while (chute != numeroSecreto) {
+    chute = prompt('Escolha um número entre 1 e 10');
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto}`);
@@ -17,4 +15,5 @@ if (chute == numeroSecreto) {
     } else {
         alert (`O número secreto é maior que ${chute}`)
     }
+}
 }
