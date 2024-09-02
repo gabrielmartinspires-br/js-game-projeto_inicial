@@ -8,4 +8,4 @@ if (chute == numeroSecreto) {
     alert(`Isso aí! Você descobriu o número secreto ${numeroSecreto}`);
 } else {
     alert ('Você errou :( ')
-}
+};
